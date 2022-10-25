@@ -62,3 +62,8 @@ html, body, canvas {
 }
 
 
+@font-face {
+	font-family: 'kalameh_bold';
+	src: url('fonts/kalameh_bold.ttf') format('truetype');
+}
+
